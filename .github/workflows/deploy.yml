@@ -48,7 +48,7 @@ jobs:
 
       - name: Create or Update index.yaml
         run: |
-          helm repo index chart-out --url https://AIM-Intelligence.github.io/Woori_Bank_AIM_Red
+          helm repo index chart-out --url https://aim-intelligence.github.io/Woori_Bank_AIM_Red
 
       - name: Push to gh-pages
         uses: peaceiris/actions-gh-pages@v4
