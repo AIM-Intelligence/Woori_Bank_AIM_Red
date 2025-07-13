@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   qwen3:
   - apiVersion: v2
-    created: "2025-07-13T03:42:12.220952853Z"
+    created: "2025-07-13T05:07:52.321724676Z"
     description: Helm chart for serving Qwen3-0.6B via FastAPI
-    digest: 45695965fb42c31e5d106e0c2bbb1a2c1edfc81fafef8b2f4538b5a2652d88b4
+    digest: a4ac9ed4b76a9b1be5a0944554c029d2a770fd9eecda595f79a0b618437375fe
     keywords:
     - huggingface
     - qwen
@@ -18,4 +18,4 @@ entries:
     urls:
     - https://AIM-Intelligence.github.io/Woori_Bank_AIM_Red/qwen3-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-13T03:42:12.216159366Z"
+generated: "2025-07-13T05:07:52.312324224Z"
