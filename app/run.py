@@ -7,7 +7,7 @@ import torch
 os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "0"
 
 app = FastAPI()
-model_id = "Qwen/Qwen3-0.6B"
+model_id = "Qwen/Qwen3-32B"
 
 # 모델 및 토크나이저 로드
 print("[INFO] This is a revision to verify the Actions workflow operation!")
