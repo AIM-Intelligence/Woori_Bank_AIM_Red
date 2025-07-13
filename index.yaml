@@ -16,6 +16,6 @@ entries:
       name: Yeeun
     name: qwen3
     urls:
-    - https://AIM-Intelligence.github.io/Woori_Bank_AIM_Red/qwen3-0.1.0.tgz
+    - https://aim-intelligence.github.io/Woori_Bank_AIM_Red/qwen3-0.1.0.tgz
     version: 0.1.0
 generated: "2025-07-13T05:07:52.312324224Z"
