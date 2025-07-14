@@ -1,5 +1,5 @@
 image:
-  repository: yyyeunn/qwen3
+  repository: aimintelligence/qwen3
   tag: latest
   pullPolicy: IfNotPresent
 

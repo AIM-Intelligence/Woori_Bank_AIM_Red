@@ -8,7 +8,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: yyyeunn/qwen3
+  IMAGE_NAME: aimintelligence/qwen3
 
 jobs:
   build-and-push:
